@@ -4,7 +4,7 @@ An Arduino-based automated greenhouse monitoring and control system built as par
 This repository contains the full technical report covering system design, sensor selection, calibration procedures, experimental results, and engineering constraints. Also a demonstration video is present.
 
 Team: Hasan Zahra-Leen Hallal-Hawraa Houmani-Ali Sareini
-Course: Sensors
+Course: Sensors 
 
 ## Project Demo
 [Watch the 8:50-minute demo video here](https://youtu.be/Pra3Y1wmy0s)
