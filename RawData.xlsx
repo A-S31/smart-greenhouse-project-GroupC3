@@ -1,0 +1,8 @@
+Timestamp,Sensor,Raw Value,Converted Value,Notes
+00:00,Soil Moisture,820,45%,Dry soil
+00:02,Soil Moisture,760,52%,Slightly moist
+00:04,LDR,300,70 lux,Dim light
+00:06,LDR,150,200 lux,Bright light
+00:08,HX711,1020,0.5 kg,Plant weight
+00:10,DHT11 Temp,28,28 °C,Room temp
+00:10,DHT11 Hum,60,60 %RH,Humidity
